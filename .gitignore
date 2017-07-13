@@ -2,6 +2,5 @@
 /dist/
 /.idea/
 /.git/
-/app/css/
 /**/*.psd
 /**/Thumbs.db
