@@ -1,2 +1,2 @@
 # alex-grsm.github.io
-Моё портфолио.
+My digital home.
