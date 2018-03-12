@@ -34,7 +34,7 @@ $(function() {
 	// Крутяться карточки Teams
 	$(".s-peoplecontact").waypoint(function() {
 
-		$(".s-peoplecontact.team-card").each(function(index) {
+		$(".s-peoplecontact .team-card").each(function(index) {
 			var ths = $(this);
 			setInterval (function() {
 				ths.removeClass("team-off").addClass("team-on");
