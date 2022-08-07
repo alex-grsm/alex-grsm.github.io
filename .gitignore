@@ -7,9 +7,12 @@
 *.txt
 *.avif
 *.woff2
+<<<<<<< HEAD
 *.map
 *.jpg
 *.png
+=======
+>>>>>>> 832040fb81ff8603f4dea6afa04642e0deeff629
 
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
