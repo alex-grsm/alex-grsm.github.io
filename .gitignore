@@ -10,6 +10,7 @@
 *.map
 *.jpg
 *.png
+css/vendor.css
 
 
 # These are some examples of commonly ignored file patterns.
