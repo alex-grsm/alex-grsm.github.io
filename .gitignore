@@ -5,12 +5,13 @@
 /**/*.psd
 /**/Thumbs.db
 *.txt
-*.avif
-*.woff2
 *.map
-*.jpg
-*.png
-css/vendor.css
+/fonts/*.woff2
+/img/*.avif
+/img/*.jpg
+/img/*.jpeg
+/img/*.png
+/css/vendor.css
 
 
 # These are some examples of commonly ignored file patterns.
