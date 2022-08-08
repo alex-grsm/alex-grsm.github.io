@@ -17,6 +17,20 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 - Gulp project builder;
 - Bootstrap 3/4/5;
 - Figma/Photoshop/Zeplin/Adobe XD to HTML;
+## ▮Languages
+__English:__ Conversational
+
+__Russian:__ Native or Bilingual
+
+__Ukrainian:__ Native or Bilingual
+## ▮Education
+__IT HUB - the initial web programming course__
+>Master of Computer Applications (MCA), Web Development
+2015-2015
+
+__Zhytomyr Ivan Franko State University__
+>Master of Computer Applications (MCA)
+2009-2014
 ## ▮Employment history
  __Web / Front-end Developer | A-DIGITAL Lifard__
 > February 2019 - Present
@@ -32,3 +46,4 @@ __Front-end Developer | Asabix__
 
  __Web Developer | Dmitriy Dimborovsky's Studio__
 > March 2015 - May 2015
+## ▮[Portfolio](https://alex-grsm.github.io/)
