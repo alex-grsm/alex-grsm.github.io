@@ -11,6 +11,14 @@
 /img/**/.jpg
 /img/**/.jpeg
 /img/**/.png
+/img/*.avif
+/img/*.jpg
+/img/*.jpeg
+/img/*.png
+/img/preview/*.avif
+/img/preview/*.jpg
+/img/preview/*.jpeg
+/img/preview/*.png
 /css/vendor.css
 
 
