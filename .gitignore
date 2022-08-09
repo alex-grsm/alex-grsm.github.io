@@ -7,10 +7,10 @@
 *.txt
 *.map
 /fonts/*.woff2
-/img/*.avif
-/img/*.jpg
-/img/*.jpeg
-/img/*.png
+/img/**/.avif
+/img/**/.jpg
+/img/**/.jpeg
+/img/**/.png
 /css/vendor.css
 
 
