@@ -29,7 +29,6 @@
 
 # Node artifact files
 node_modules/
-dist/
 /node_modules
 /app
 package-lock.json
@@ -48,7 +47,6 @@ package-lock.json
 
 # Maven
 target/
-dist/
 
 # JetBrains IDE
 .idea/

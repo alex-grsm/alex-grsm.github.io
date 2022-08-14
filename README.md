@@ -26,7 +26,7 @@ __Ukrainian:__ Native or Bilingual
 ## ▮Education
 __IT HUB - the initial web programming course__
 >Master of Computer Applications (MCA), Web Development
-2015-2015
+2015 (Duration of training - 3 months)
 
 __Zhytomyr Ivan Franko State University__
 >Master of Computer Applications (MCA)
