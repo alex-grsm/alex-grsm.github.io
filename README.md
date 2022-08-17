@@ -13,7 +13,7 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 - Flex\Grid layout, BEM.
 - JavaScript (ES6+), jQuery, AJAX, JSON.
 - Bootstrap 3 ,4, 5.
-- Gulp project builder.
+- Gulp, Git.
 - Figma/Photoshop/Zeplin/Adobe XD to HTML.
 - PHP, MySQL.
 - Wordpress / Yii2 / Laravel / Opencart / Bitrix. 
