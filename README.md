@@ -11,9 +11,8 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 ## ▮Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex\Grid layout, BEM.
-- JavaScript (ES6+), jQuery.
-- AJAX, JSON.
-- Bootstrap 3/4/5.
+- JavaScript (ES6+), jQuery, AJAX, JSON.
+- Bootstrap 3 ,4, 5.
 - Gulp project builder.
 - Figma/Photoshop/Zeplin/Adobe XD to HTML.
 - PHP, MySQL.
