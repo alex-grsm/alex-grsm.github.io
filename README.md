@@ -1,22 +1,23 @@
 # My digital home [alex-grsm.github.io](https://alex-grsm.github.io/)
-Hi, I'm Alex who is a Frond-end Developer. I have participated in project development of various complexity on different CMS/Frameworks, such as: Wordpress, Opencart, Yii2, Laravel.
+Hi, I'm Alex who is a Frond-end Developer. I have participated in project development of various complexity on different CMS/Frameworks.
 Have an understanding of OOP principles. Good front-end development skills. I usually make Full Responsive Web Sites for clients. Worked with Git. I have shallow knowledge of PHP.
 ## ▮Reasons to hire me
-- Easy to read and SEO-friendly HTML-markup;
-- Cross-browser and high-performance;
-- Speed optimization;
-- Quality Adaptive layout;
-- QA. A solid understanding of browser debugging;
-- Friendly;
-- Good organization and work ethic;
+- Easy to read and SEO-friendly HTML-markup.
+- Cross-browser and high-performance.
+- Quality Adaptive layout.
+- QA. A solid understanding of browser debugging.
+- Hard-worker, Responsible, excellent learning abilities.
+- Good organization and work ethic.
 ## ▮Skilled in
-- HTML5, CSS3, SCSS, SASS;
-- JavaScript (ES6+), jQuery;
-- AJAX, JSON
-- PHP, MySQL;
-- Gulp project builder;
-- Bootstrap 3/4/5;
-- Figma/Photoshop/Zeplin/Adobe XD to HTML;
+- HTML5, CSS3, SCSS, SASS.
+- Flex\Grid layout, BEM.
+- JavaScript (ES6+), jQuery.
+- AJAX, JSON.
+- Bootstrap 3/4/5.
+- Gulp project builder.
+- Figma/Photoshop/Zeplin/Adobe XD to HTML.
+- PHP, MySQL.
+- Wordpress / Yii2 / Laravel / Opencart / Bitrix. 
 ## ▮Languages
 __English:__ Conversational
 
