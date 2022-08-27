@@ -12,8 +12,8 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 - HTML5, CSS3, SCSS, SASS.
 - Flex\Grid layout, BEM.
 - JavaScript (ES6+), jQuery, AJAX, JSON.
-- Bootstrap 3 ,4, 5.
-- Gulp, Git.
+- Bootstrap 3, 4, 5.
+- Gulp, WebPack, Git.
 - Figma/Photoshop/Zeplin/Adobe XD to HTML.
 - PHP, MySQL.
 - Wordpress / Yii2 / Laravel / Opencart / Bitrix. 
@@ -35,7 +35,7 @@ __Zhytomyr Ivan Franko State University__
  __Web / Front-end Developer | A-DIGITAL Lifard__
 > February 2019 - Present
 
- __Web/Front-end Developer | Freelance__
+ __Web / Front-end Developer | Freelance__
 > March 2018 - January 2019
 
 __Front-end Developer | Asabix__
