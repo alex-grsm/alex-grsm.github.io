@@ -42,7 +42,7 @@ __Ukrainian:__ Native or Bilingual
 > February 2019 - Present
 
 :computer: __Web / Front-end Developer | Freelance__
-> March 2018 - January 2019
+> March 2018 - Present
 
 :computer: __Front-end Developer | Asabix__
 > September 2017 - January 2018
