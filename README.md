@@ -1,5 +1,5 @@
 # 👋 My digital home [alex-grsm.github.io](https://alex-grsm.github.io/)
-Hi, I'm Alex who is a Frond-end Developer. I have participated in project development of various complexity on different CMS/Frameworks.
+Hi, I'm Alex who is a Full Stack Web Developer. I have participated in project development of various complexity on different CMS/Frameworks.
 Have an understanding of OOP principles. Good front-end development skills. I usually make fully responsive websites for clients. I have average knowledge of PHP.
 ## :open_file_folder: Reasons to hire me
 - Easy to read and SEO-friendly HTML-markup.
