@@ -19,7 +19,7 @@ I have average knowledge of PHP and have experience with CRM pipedrive, lp-crm.
 - Gulp, WebPack, Git.
 - Figma, Photoshop, Zeplin, Adobe XD to HTML.
 - Wordpress, Yii2, Opencart, Bitrix. 
-- PHP, MySQL.
+- PHP, MySQL, API.
 ## :open_file_folder: Languages
 __English:__ Conversational
 
