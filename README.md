@@ -3,7 +3,7 @@ Hi, I'm Alex who is a Full Stack Web Developer.
 I have participated in project development of various complexity on different CMS/Frameworks.
 Have an understanding of OOP principles. Good front-end development skills. 
 I usually make fully responsive websites for clients. 
-I have average knowledge of PHP and have experience with CPM pipedrive, lp-crm.
+I have average knowledge of PHP and have experience with CRM pipedrive, lp-crm.
 ## :open_file_folder: Reasons to hire me
 - Easy to read and SEO-friendly HTML-markup.
 - Cross-browser and high-performance.
