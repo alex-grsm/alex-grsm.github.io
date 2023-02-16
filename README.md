@@ -28,6 +28,9 @@ __Russian:__ Native or Bilingual
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
 :mortar_board: __Udemy • Company E-Learning Service Providers__
+>[Practical JavaScript (Advanced) • February 16, 2023](https://www.udemy.com/certificate/UC-d42692fa-e525-49de-b4e8-c12cb403d721/)
+
+:mortar_board: __Udemy • Company E-Learning Service Providers__
 >[Landing the layout and creating themes on CMS WordPress • Junuary 29, 2023](https://www.udemy.com/certificate/UC-783e32a2-4593-4fe4-ba8c-40ad159b9ce4/)
 
 :mortar_board: __Udemy • Company E-Learning Service Providers__
