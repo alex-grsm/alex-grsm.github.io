@@ -1,0 +1,18 @@
+/*!
+ * Bootstrap v3.3.6 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under the MIT license
+ */
+
+/*!
+ * imagesLoaded PACKAGED v3.2.0
+ * JavaScript is all like "You images are done yet or what?"
+ * MIT License
+ */
+
+/*!
+Waypoints - 4.0.0
+Copyright © 2011-2015 Caleb Troughton
+Licensed under the MIT license.
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+*/
