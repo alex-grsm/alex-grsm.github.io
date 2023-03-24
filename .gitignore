@@ -6,7 +6,6 @@
 /**/Thumbs.db
 *.txt
 *.map
-/fonts/*.woff2
 /img/**/.avif
 /img/**/.jpg
 /img/**/.jpeg
@@ -15,6 +14,8 @@
 /img/*.jpg
 /img/*.jpeg
 /img/*.png
+!/img/hero.png
+!/img/line.png
 /img/preview/*.avif
 /img/preview/*.jpg
 /img/preview/*.jpeg
