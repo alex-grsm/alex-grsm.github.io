@@ -3,12 +3,14 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open('my-cache').then(function(cache) {
         return cache.addAll([
-          '/',
           '/*.html',
           '/css/main.css',
           '/js/main.js',
-          '/img/*'
-        ]);
+          '/img/*',
+          '/fonts/*'
+        ]).catch(function(error) {
+            console.error('Error adding resources to cache:', error);
+        });
       })
     );
   });
