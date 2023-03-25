@@ -1,0 +1,28 @@
+# Cache HTML files for 5 minutes
+<FilesMatch "\.html$">
+  Header set Cache-Control "max-age=600, private, must-revalidate"
+  Header unset ETag
+  Header unset Last-Modified
+  Header append Vary Accept-Encoding
+</FilesMatch>
+
+# Cache images
+<FilesMatch "\.(bmp|gif|jpg|jpeg|png|svg|webp)$">
+  Header set Cache-Control "max-age=2592000, public"
+  Header unset ETag
+  Header unset Last-Modified
+</FilesMatch>
+
+# Cache fonts
+<FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
+  Header set Cache-Control "max-age=2592000, public"
+  Header unset ETag
+  Header unset Last-Modified
+</FilesMatch>
+
+# Enable gzip compression
+<IfModule mod_deflate.c>
+  <FilesMatch "\.(html|css|js|txt|xml)$">
+    SetOutputFilter DEFLATE
+  </FilesMatch>
+</IfModule>
