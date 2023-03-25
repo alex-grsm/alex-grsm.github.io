@@ -6,23 +6,23 @@
   Header append Vary Accept-Encoding
 </FilesMatch>
 
-# Cache images
-<FilesMatch "\.(bmp|gif|jpg|jpeg|png|svg|webp)$">
-  Header set Cache-Control "max-age=2592000, public"
-  Header unset ETag
-  Header unset Last-Modified
-</FilesMatch>
-
-# Cache fonts
+# Cache fonts for 30 days
 <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
   Header set Cache-Control "max-age=2592000, public"
   Header unset ETag
   Header unset Last-Modified
 </FilesMatch>
 
-# Enable gzip compression
-<IfModule mod_deflate.c>
-  <FilesMatch "\.(html|css|js|txt|xml)$">
-    SetOutputFilter DEFLATE
-  </FilesMatch>
-</IfModule>
+# Cache CSS and JS files for 30 days
+<FilesMatch "\.(css|js)$">
+  Header set Cache-Control "max-age=2592000, public"
+  Header unset ETag
+  Header unset Last-Modified
+</FilesMatch>
+
+# Cache image files for 30 days
+<FilesMatch "\.(bmp|gif|jpg|jpeg|png|svg|webp)$">
+  Header set Cache-Control "max-age=2592000, public"
+  Header unset ETag
+  Header unset Last-Modified
+</FilesMatch>
